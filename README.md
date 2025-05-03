@@ -13,4 +13,3 @@ Esse projeto foi copiado de um projeto dentro de um curso de java desktop.</p>
 
 ![image](https://github.com/user-attachments/assets/139c6dab-784f-48f4-aba1-b8a69ee5156f)
 
-<p> Teste de modificação SSH2</p>
